@@ -71,6 +71,7 @@ PLLJ_PLLSPE_INFO.txt
 
 *.json
 *.qar
+*.rpt
 
 PLL_sim/cadence/ncsim_setup.sh
 PLL_sim/synopsys/vcs/vcs_setup.sh
